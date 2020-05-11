@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927485800651",
+    "firebase_url": "https://sshop-214a2.firebaseio.com",
+    "project_id": "sshop-214a2",
+    "storage_bucket": "sshop-214a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927485800651:android:f1ed8b7f7c8e77d7e2eb4e",
+        "android_client_info": {
+          "package_name": "com.wayne.sshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927485800651-alet37jbhmfggq7orhtdd8u78cj4i2cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wayne.sshop",
+            "certificate_hash": "24d843f89ad80a1e6842daa87d28ec3ae063b114"
+          }
+        },
+        {
+          "client_id": "927485800651-fa0adv7bs3fjkor48d8tihmckbf70j8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4fgLAds-dWwVbK3u79x5tx_TloTtu14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927485800651-fa0adv7bs3fjkor48d8tihmckbf70j8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
